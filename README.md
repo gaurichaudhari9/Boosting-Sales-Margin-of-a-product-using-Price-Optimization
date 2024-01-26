@@ -14,7 +14,7 @@ The primary goal is to identify a product from a top-selling category and implem
 ## Data Analysis and Insights
 - **Exploratory Data Analysis (EDA)**: Conducted thorough EDA to extract meaningful patterns and trends.
 - **Feature Selection**: Identified key features that significantly impact the sales margin.
-- **Price Optimization Modeling**: Developed models to determine the optimal pricing strategy for the selected product.
+- **Price Optimization Modeling**: Developed models to determine the optimal pricing strategy for the selected product. 
 
 ## Results
 - **Improved Sales Margin**: Demonstrated a significant increase in the sales margin of the selected product through the application of the optimized pricing strategy.
@@ -37,7 +37,7 @@ This project showcases the power of data science in transforming business strate
 - Integrate real-time data feeds for dynamic pricing strategies.
 
 ## Contact
-For queries, collaborations or discussions regarding this project, feel free to reach out: [Your Email]
+For queries, collaborations or discussions regarding this project, feel free to reach out: chaudharigauri.9@gmail.com
 
 ## Acknowledgments
 Special thanks to the Kaggle community for providing the Olist store dataset, which formed the backbone of this analysis.
