@@ -1,19 +1,35 @@
-Data Mining Final Project - Boosing sales margin of a product using price optimization for e-commerce platform
+# Boosting Sales Margin with Data-Driven Price Optimization
 
-Please find below the list of deliverables:
+## Project Overview
+This project demonstrates the application of data analysis and optimization techniques to enhance the sales margin of a specific product in an e-commerce setting. Using the Olist store dataset, the project involves data cleaning, exploratory data analysis, and price optimization strategies.
 
-Project code jupyter notebook: Price optimization/Price_Optimization.ipynb
+### Key Features
+- **Data Cleaning and Preparation**: Handling over 100k sales records and refining the dataset for focused analysis.
+- **Exploratory Data Analysis (EDA)**: Gaining insights into top-selling categories and identifying the target product for sales boost.
+- **Price Optimization**: Implementing data-driven strategies to optimize the pricing of the selected product.
 
-Project code html: Price optimization/Price_Optimization.html
+## Data Source
+The project utilizes the [Olist store dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce), a comprehensive dataset available on Kaggle, tailored to fit the project's scope.
 
-Slides for presentation: Price optimization/Boosting sales margin of a product using price.pptx
+## Technologies Used
+- Python: For all data processing and analysis.
+- Libraries: [List of key Python libraries used]
 
-Final project report: - Price optimization/Boosting sales margin of a product using price optimization.pdf
+## Project Structure
+1. **Introduction**: Overview of the project and its objectives.
+2. **Data Acquisition**: Details about the data source and its relevance.
+3. **Data Cleaning and Preparation**: Techniques and methods used to prepare the dataset for analysis.
+4. **Exploratory Data Analysis**: Insights and findings from the data.
+5. **Price Optimization Techniques**: Methodology and implementation of the optimization strategies.
 
-Public Datasets: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+## How to Run the Project
+[Instructions on how to run the Jupyter Notebook, including installation steps for necessary libraries and how to download the dataset.]
 
-File name: Since the data is large we are providing kaggle dataset link.
+## Conclusions and Insights
+[Summary of key findings, insights, and the impact of the price optimization strategies on sales margin.]
 
-Modified and used dataset: https://www.kaggle.com/datasets/gaurichaudhari9/olist-store-modified-dataset
+## Contact
+For any inquiries or discussions regarding this project, feel free to contact me at [Your Contact Information].
 
-This is a real world store data provided hence it is not fitted to the model ideally
+## Acknowledgments
+Special thanks to [Mention any collaborators, if any, or sources of inspiration for the project].
